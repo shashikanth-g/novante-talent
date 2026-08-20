@@ -91,7 +91,7 @@ export default function JoinAgency() {
             </p>
 
             <a
-              href="mailto:applications@novantetalent.com?subject=Novante%20Talent%20Representation%20Application"
+              href="mailto:novantetalent@gmail.com?subject=Novante%20Talent%20Representation%20Application"
               style={{
                 display: 'inline-flex',
                 alignItems: 'center',
